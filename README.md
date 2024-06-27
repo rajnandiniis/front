@@ -1,0 +1,2 @@
+Welcome to the CodeEditor project! This is a lightweight and intuitive code editor built using only HTML and CSS, aimed at providing a seamless coding experience directly in your web browser.
+This project is a basic code editor built using HTML and CSS. It provides a clean and minimal interface for writing and editing code, making it an ideal starting point for understanding the structure and styling of web-based code editors. Key features include a monospaced font for code, a styled text area, and an optional line numbers panel.
